@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/Rosa/static/css/main.ba02888f.chunk.css",
+    "main.js": "/Rosa/static/js/main.52ee2408.chunk.js",
+    "main.js.map": "/Rosa/static/js/main.52ee2408.chunk.js.map",
+    "runtime-main.js": "/Rosa/static/js/runtime-main.f6416a43.js",
+    "runtime-main.js.map": "/Rosa/static/js/runtime-main.f6416a43.js.map",
+    "static/css/2.7fc9bc2b.chunk.css": "/Rosa/static/css/2.7fc9bc2b.chunk.css",
+    "static/js/2.1e5a2d95.chunk.js": "/Rosa/static/js/2.1e5a2d95.chunk.js",
+    "static/js/2.1e5a2d95.chunk.js.map": "/Rosa/static/js/2.1e5a2d95.chunk.js.map",
+    "static/js/3.0fda3802.chunk.js": "/Rosa/static/js/3.0fda3802.chunk.js",
+    "static/js/3.0fda3802.chunk.js.map": "/Rosa/static/js/3.0fda3802.chunk.js.map",
+    "index.html": "/Rosa/index.html",
+    "static/css/2.7fc9bc2b.chunk.css.map": "/Rosa/static/css/2.7fc9bc2b.chunk.css.map",
+    "static/css/main.ba02888f.chunk.css.map": "/Rosa/static/css/main.ba02888f.chunk.css.map",
+    "static/js/2.1e5a2d95.chunk.js.LICENSE.txt": "/Rosa/static/js/2.1e5a2d95.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f6416a43.js",
+    "static/css/2.7fc9bc2b.chunk.css",
+    "static/js/2.1e5a2d95.chunk.js",
+    "static/css/main.ba02888f.chunk.css",
+    "static/js/main.52ee2408.chunk.js"
+  ]
+}
